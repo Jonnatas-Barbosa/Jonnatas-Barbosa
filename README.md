@@ -1,5 +1,6 @@
-<h1>Hi guys 👋<h1/>
-### My name is Jonnatas Barbosa
+<h1>Hi guys <h1/>
+
+## Meu nome é Jonnatas Barbosa
 
 - 💻 Estudante de GTI (Gestão da Tecnologia da Infomação)
 - ❤️ Apaixonado por algoritmo
